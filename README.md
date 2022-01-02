@@ -1,2 +1,3 @@
-# refs
-Reference material (videos, articles, links)
+# Refs
+
+Reference material (videos, articles, links etc.)
